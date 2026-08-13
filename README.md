@@ -48,7 +48,7 @@ Jogo de RPG desenvolvido em **Java com interface gráfica Swing**, aplicando tod
 <div align="center">
 
 ![Eduardo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=EduardoPimenteldeOliveira&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800)
-
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EduardoPimenteldeOliveira&theme=tokyonight)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoPimenteldeOliveira&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800)
 
 </div>
