@@ -1,4 +1,4 @@
-[PROFILE_README.md](https://github.com/user-attachments/files/31010055/PROFILE_README.md)
+
 # Olá, eu sou Eduardo Pimentel 👋
 
 ### Engenheiro de Computação · Dados & IA · Campinas, SP
@@ -67,7 +67,7 @@ Jogo de RPG desenvolvido em **Java com interface gráfica Swing**, aplicando tod
 
 ## 📫 Contato
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduardo-pimentel-de-oliveira)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduardopimenteldeoliveira/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eduardopimentel.eng@gmail.com)
 
 ---
