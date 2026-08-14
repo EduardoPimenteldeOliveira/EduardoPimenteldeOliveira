@@ -21,6 +21,7 @@ Busco estágio na área de **Dados, IA ou Desenvolvimento** para aplicar e expan
 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
@@ -36,6 +37,11 @@ Busco estágio na área de **Dados, IA ou Desenvolvimento** para aplicar e expan
 
 ## 📌 Projetos em Destaque
 
+### ⚽ [Prevenção de Lesões no Futebol com Redes Neurais](https://github.com/EduardoPimenteldeOliveira/Injury-Prediction-ML)
+Artigo científico / TCC que desenvolve um modelo preditivo baseado em **Rede Neural Artificial (MLP)** para estimar risco de lesão de jogadores de futebol, comparando desempenho contra 9 algoritmos clássicos de ML (Random Forest, SVM, XGBoost, entre outros). Validação estatística com teste de Wilcoxon, intervalos de confiança via bootstrap e interpretabilidade com SHAP.
+
+`TensorFlow/Keras` `scikit-learn` `XGBoost` `SHAP` `SciPy`
+
 ### ⚔️ [Eldoria RPG — Os Cristais de Java](https://github.com/EduardoPimenteldeOliveira/Java_RPG_Game)
 Jogo de RPG desenvolvido em **Java com interface gráfica Swing**, aplicando todos os pilares de POO: Herança, Polimorfismo, Interfaces, Tratamento de Exceções e Persistência. Sistema de combate, treinamento em tempo real, sprites vetoriais e animações.
 
@@ -49,9 +55,9 @@ Jogo de RPG desenvolvido em **Java com interface gráfica Swing**, aplicando tod
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EduardoPimenteldeOliveira&theme=tokyonight)
 
-![Eduardo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=EduardoPimenteldeOliveira&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800)
+![Eduardo's GitHub Stats](https://github-stats-extended.vercel.app/api?username=EduardoPimenteldeOliveira&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoPimenteldeOliveira&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800)
+![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=EduardoPimenteldeOliveira&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800)
 
 </div>
 
