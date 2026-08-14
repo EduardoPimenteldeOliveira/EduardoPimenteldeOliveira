@@ -27,7 +27,6 @@ Busco estágio na área de **Dados, IA ou Desenvolvimento** para aplicar e expan
 
 **Ferramentas & Banco de Dados**
 
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -55,9 +54,6 @@ Jogo de RPG desenvolvido em **Java com interface gráfica Swing**, aplicando tod
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EduardoPimenteldeOliveira&theme=tokyonight)
 
-![Eduardo's GitHub Stats](https://github-stats-extended.vercel.app/api?username=EduardoPimenteldeOliveira&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800)
-
-![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=EduardoPimenteldeOliveira&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800)
 
 </div>
 
